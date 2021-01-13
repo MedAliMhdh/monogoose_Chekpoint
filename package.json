@@ -1,0 +1,30 @@
+{
+  "name": "mongoose_chekpoint",
+  "version": "1.0.0",
+  "description": "mongoose Chekpoint ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedAliMhdh/monogoose_Chekpoint.git"
+  },
+  "keywords": [
+    "Express",
+    "mongoDB",
+    "Mongoose",
+    "Nodejs"
+  ],
+  "author": "Mohamed Ali Mahdhaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedAliMhdh/monogoose_Chekpoint/issues"
+  },
+  "homepage": "https://github.com/MedAliMhdh/monogoose_Chekpoint#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.11"
+  }
+}
